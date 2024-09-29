@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.niv{
+    display: flex;
+    justify-content: space-between;
+    background-color: #1ccacd;
+    padding: 17px;
+    /* height: 60px; */
+}
+ul,li{
+    display: inline;
+    margin: 20px;
+}
+ul,li,a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+h1{
+    color: white;
+    margin-left: 15%;
+}
+.class{
+    padding-right: 15px;
+}
+.demoo{
+    background-color: #f7f7f7;
+    font-size: 65px;
+    padding: 30px;
+    height: 70px;
+}
+.dem{
+        margin-left: 15%;
+
+}
+.bac{
+    position:absolute;
+    font-size: 30px;
+    margin-top: 80px;
+
+}   
+ .subdemo{
+    display: flex;
+    /* justify-content: center; */
+    /* margin: 15px; */
+ }
+.num{
+    /* border:1px solid black; */
+    height: 96px;
+    width: 280px;
+    margin: 20px 30px 20px 0px;
+    padding: 15px;
+    background-color: #eaeaea;
+    font-size: 25px;
+    transition-duration: 0.5s;
+}
+.num:hover{
+    color: white;
+    background-color: #1ccacd;
+}
+hr{
+    width: 90%;
+}
+.con_main{
+    position: relative;
+    margin-left: 17.5%;
+    margin-top:50px;
+    /* border: 1px solid; */
+    margin-right:20% ;
+    margin-bottom: 80PX;
+}
+.subdemoo{
+        margin-top: 150px;
+}
+.mainm{
+    margin-top: 150px;
+}
+.nohr{
+    width: 0px;
+}
+.subdemoo{
+    display: flex;
+    margin-top:65PX ;
+
+}
+.bac_2{
+    /* position:absolute; */
+    font-size: 30px;
+}
+.hr_2{
+    position: absolute;
+
+}
+
+.lastt{
+    margin-top: 85PX;
+
+}
+.con2{
+    margin-top: 100px;
+}
+.text3{
+    /* display: flex; */
+    background-color:#edecec;
+    /* padding: 30px 0 30px 0; */
+    color: #1ccacd;
+    font-size: 20px;
+}
+.last{
+    margin-left: 45%;
+}

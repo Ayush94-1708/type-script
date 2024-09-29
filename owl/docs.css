@@ -1,0 +1,150 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.headerr{
+ display: flex;
+ justify-content: space-between;
+ background-color:#1ccacd;
+ padding: 17px;
+}
+ul,li,a{
+    text-decoration: none;
+    /* margin: 20px//// ; */
+    font-size: 20px;
+    font-family: latto;
+    margin-left: 15px;
+}
+.aa{
+    color: white;
+    margin: 20px;
+}
+.one{
+    display: inline;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    /* color: white; */
+}
+h1{
+    margin-left: 17%;
+    font-size: 30px;
+    color: white;
+}
+h2{
+    height: 70px;
+    font-size: 50px;
+    padding: 20px;
+    margin-left: 17%;
+}
+.start{
+    background-color: #f7f7f7;
+}
+/* .first{
+    justify-content: ;
+} */
+.main{
+    display: flex;
+    display: inline-block;
+    /* border:2px solid red; */
+    margin-left: 17%;
+    padding-left: 20PX;
+    /* padding-top: 2%; */
+    width: 15%;
+}
+.tp{
+    list-style-type: none;
+    /* background-color: #fff; */
+}
+li.tp{
+    /* padding-top: 2%; */
+    /* background-color: red; */
+}   
+li.tp:hover{
+    background-color: #f7f7f7;
+    transition: 0.7s;
+}
+.main{
+    /* margin:20px; */
+    /* background-color: #f7f7f7; */
+    /* background-color: red; */
+    /* text-align: right; */
+}
+.main li{
+    /* padding-bottom: 20px; */
+    padding: 16px 20px 20px 0px;
+    /* margin-left: 30%; */
+    display: block;    
+    width: 150px;
+    margin-bottom: 15px;
+}
+.main_1{
+    display: flex;
+    padding-top: 50px;
+}
+H4{
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-top: 50px;
+    font-size: 20PX;
+    /* margin-left: 10%; */
+    text-align:right;
+}   
+h3{
+    font-size: 40px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.fline{
+    padding-left: 15px;
+
+}
+blockquote{
+    padding:30px 0px 30px 0px;
+    border-left: 5px solid aqua;
+    font-size: 20px;
+}
+.main_2{
+    /* border: 2px solid red; */
+    /* padding-bottom: 10px;
+    padding-right: 30px;
+    padding-top: 50px; */
+    padding: 0px 30px 10px 30px;
+    width: 45%;
+    /* margin-left:60px; */
+}
+p{
+    padding-bottom: 20px;
+    color:#555555;
+}
+.ap{
+    padding-bottom: 10px;
+}
+/* a{
+    color:#1ccacd ;
+    text-decoration: none;
+} */
+pre{
+    padding: 20px;
+    background-color:#f8f8f8;
+    border: 1px solid #dfdfdf;
+    color: #333;
+    margin-left: 0px;
+    overflow-x: scroll;
+}
+h6{
+    font-size: 20px;
+    color: #1ccacd;
+}
+
+.text3{
+    display: flex;
+    background-color:#edecec;
+    padding: 30px 0 30px 0;
+    color: #1ccacd;
+    font-size: 20px;
+    margin-top: 100px;
+}
+.last{
+    margin-left: 45%;
+}
